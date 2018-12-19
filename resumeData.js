@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am a software engineer with solid programming skills and experience developing full-stack applications. I love being part of an industry that pushes society forward and impacts millions of people through the things we build. We live in one of the most exciting times in human history.",
+    "aboutme":"I am a software engineer with solid programming skills and experience developing full-stack applications. I love contributing to an industry that pushes society forward and impacts the lives of millions of people through the things we build. We live in one of the most exciting times in human history where everything is interconnected through the digital world. The future will be what we build today.",
     "address":"Seattle, WA",
     "website":"nicolasrturner@gmail.com",
     "skillsDescription":"Languages and Technologies",
@@ -49,21 +49,21 @@ let resumeData = {
         "name":"Backpacker",
         "description":"An outdoor app to assist the modern hiker with planning and tracking their hikes",
         "imgurl":"images/portfolio/backpacker.jpg",
-        "code":"https://github.com/N3-Hercules"
+        "code":"https://github.com/The-Goonies/goonies"
        
       },
       {
         "name":"BarBack",
         "description":"Bar management app to help patrons order drinks without fighting for attention at the bar",  
         "imgurl":"images/portfolio/barback.png",
-        "code":"https://github.com/N3-Hercules"
+        "code":"https://github.com/The-Goonies/barback"
    
       },
       {
         "name":"CS Chatbot Advisor",
         "description":"A personal advisor for early career students to learn about CS topics",
         "imgurl":"images/portfolio/chatbot.png",
-        "code":"https://github.com/N3-Hercules"
+        "code":"https://assistant.google.com/services/a/uid/000000725d2b92c7?hl=en-US&source=web"
      
       }
     ],
